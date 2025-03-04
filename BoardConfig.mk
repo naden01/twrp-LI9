@@ -206,5 +206,5 @@ TARGET_RECOVERY_DEVICE_MODULES := libinit_LI9
 TW_LOAD_VENDOR_BOOT_MODULES := true
 
 # Version
-TW_DEVICE_VERSION := Shah_qufi | LI9
+TW_DEVICE_VERSION := Shah_qufi / naze | LI9
 
